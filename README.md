@@ -1,8 +1,8 @@
 
 **Disclaimer:**  
-This project, including all associated repositories, code, and materials, is an independent fork of the open-source ReVanced project. It is not affiliated with, endorsed by, or connected to the official ReVanced project or its trademark owner. The name "ReVanced" is used solely to describe the nature of the software and does not imply any official association.  
+This project, including all associated repositories, code, and materials, is not affiliated with, endorsed by, or connected to the official ReVanced project or it's trademark owner. The name "ReVanced" is used solely to describe the nature of the software and does not imply any official association.  
 
-All trademarks, service marks, and registered trademarks mentioned in this project are the property of their respective owners. This project is developed and maintained by an independent community and is not responsible for any actions taken by the official RV project or its representatives.  
+All trademarks, service marks, and registered trademarks mentioned in this project are the property of their respective owners. This project is developed and maintained by an independent community and is not responsible for any actions taken by the official ReVanced project or its representatives.  
 
 For more information about the official ReVanced project, please visit their website: [https://revanced.app](https://revanced.app).
 
@@ -33,7 +33,7 @@ We truly appreciate your support and interest in our repository. Your involvemen
 
 ## Get in Touch
 
-If you have any questions, concerns, or simply want to connect with us, feel free to reach out. You can find our contact information on our [website](https://www.vanced.to/contact).
+If you have any questions or concerns,  You can find more information on our [website](https://www.vanced.to).
 
 Thank you for visiting our repository and for being a part of the ReVanced community. Your support means the world to us!
 
