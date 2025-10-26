@@ -33,7 +33,7 @@ We truly appreciate your support and interest in our repository. Your involvemen
 
 ## Get in Touch
 
-If you have any questions or concerns,  You can find more information on our [website](https://www.vanced.to).
+If you have any questions or concerns,  You can find more information on our [website](https://vanced.to).
 
 Thank you for visiting our repository and for being a part of the ReVanced community. Your support means the world to us!
 
