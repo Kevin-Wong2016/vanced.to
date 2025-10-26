@@ -1,6 +1,6 @@
 
 **Disclaimer:**  
-This project, including all associated repositories, code, and materials, is an independent fork of the open-source RV project. It is not affiliated with, endorsed by, or connected to the official RV project or its trademark owner. The name "RV" is used solely to describe the nature of the software and does not imply any official association.  
+This project, including all associated repositories, code, and materials, is an independent fork of the open-source ReVanced project. It is not affiliated with, endorsed by, or connected to the official ReVanced project or its trademark owner. The name "ReVanced" is used solely to describe the nature of the software and does not imply any official association.  
 
 All trademarks, service marks, and registered trademarks mentioned in this project are the property of their respective owners. This project is developed and maintained by an independent community and is not responsible for any actions taken by the official RV project or its representatives.  
 
@@ -15,17 +15,17 @@ Our primary goal is to offer a trustworthy platform where everyone can convenien
 
 Our repository currently hosts a range of products that you can explore and enjoy:
 
-- **YouTube RV**
-- **RV Extended**
-- **YouTube Music RV**
+- **YouTube ReVanced**
+- **ReVanced Extended**
+- **YouTube Music ReVanced**
 - **MicroG**
-- **TikTok RV**
-- **Lightroom RV**
-- **Reddit RV**
+- **TikTok ReVanced**
+- **Lightroom ReVanced**
+- **Reddit ReVanced**
 
 ## What's Coming Next
 
-We are excited to share that in the upcoming period, RV will gradually release source codes related to our automated build processes through continuous delivery. This strategic step is taken to eliminate any unnecessary misunderstandings regarding our website and its operations. Our ultimate aim is to build trust and confidence among our users.
+We are excited to share that in the upcoming period, ReVanced will gradually release source codes related to our automated build processes through continuous delivery. This strategic step is taken to eliminate any unnecessary misunderstandings regarding our website and its operations. Our ultimate aim is to build trust and confidence among our users.
 
 ## How You Can Contribute
 
@@ -33,7 +33,7 @@ We truly appreciate your support and interest in our repository. Your involvemen
 
 ## Get in Touch
 
-If you have any questions, concerns, or simply want to connect with us, feel free to reach out. You can find our contact information on our [website](https://www.RV/contact).
+If you have any questions, concerns, or simply want to connect with us, feel free to reach out. You can find our contact information on our [website](https://www.vanced.to/contact).
 
 Thank you for visiting our repository and for being a part of the RV community. Your support means the world to us!
 
